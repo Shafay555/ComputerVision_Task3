@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from ultralytics import YOLO
 
 VIDEO = "input.mp4"
-STEP = 5          # har 5th frame
+STEP = 5          
 CONFS = [0.2, 0.4, 0.6, 0.8]
 
 
